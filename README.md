@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshil10-7,
 - 👀 I’m interested in cyber security,
-- 🌱 I’m currently learning Informatin Techonology in CVM Universit,
+- 🌱 I’m currently learning Informatin Techonology in CVM University,
 - 📫 Contect with me via Email - harshilpanchal107@gmail.com
 
 <!---
